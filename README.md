@@ -1,0 +1,4 @@
+scratch
+=======
+
+Scratchpad repository
